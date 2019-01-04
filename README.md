@@ -31,7 +31,7 @@ seyahat projesi sirket gibi her yer için programi var ilk form rezervasyon bilg
 
 bilgileri unuttum bir dügme var rezervasyon eden rezervasyon bilgileri unutsa hem adi ve gidecegi sehir yazarak tüm rezervasyon bilgieri getirilecektir.     
 
-kouosl dosyasi tumuyla yuledim çünkü portal site içinde değiştirdim. 
+kouosl dosyasi tumuyla yükledim çünkü portal site içinde değiştirdim. 
 
 proje ilk gireceğiniz backend kısmından http://portal.kouosl/admin/site/auth/login
 
