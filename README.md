@@ -25,7 +25,6 @@
                                                       
              ---------------------------------------------------------------------------
 
-
 proje hakkinda 
 seyahat projesi sirket gibi her yer için programi var ilk form rezervasyon bilgileri doldurulacaktir 
 
