@@ -34,5 +34,5 @@ kouosl dosyasi tumuyla yükledim çünkü portal site içinde değiştirdim.
 
 proje ilk gireceğiniz backend kısmından http://portal.kouosl/admin/site/auth/login
 
-
+rapor linki https://drive.google.com/drive/folders/11fVxgV49w5J513wUuGlxvyxgleuHlu8o
 yotube'de projenin linki https://youtu.be/aNgqco8IkLY
